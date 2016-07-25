@@ -1,0 +1,25 @@
+{
+  "name": "everything_in_one_page",
+  "authors": [
+    "shadowkimi <shadowkimi@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^3.0.0"
+  },
+  "resolutions": {
+    "jquery": "1.9.1 - 2"
+  }
+}
